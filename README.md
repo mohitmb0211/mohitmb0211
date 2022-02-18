@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mohit bahuguna</h1>
-<h3 align="center">A passionate to be software developer</h3>
+<h3 align="center">A passionate to be software developer, Always keen to learn new things.</h3>
 
 - 🌱 I’m currently learning **Web Designing, App developing.**
 
